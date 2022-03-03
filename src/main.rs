@@ -1,3 +1,4 @@
 fn main(){
-println!("Hello World");
+let x=2+3;
+println!("{}",x);
 }
