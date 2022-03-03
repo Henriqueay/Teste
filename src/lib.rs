@@ -8,7 +8,7 @@ mod tests {
   
   #[test]
   fn say_hello() {
-    let result = say("ssvm");
-    assert!(result.contains("hello ssvm"));
+    let result = say("Henrique");
+    assert!(result.contains("hello Henrique"));
   }
 }
