@@ -1,4 +1,4 @@
 fn main(){
-let x=2+3;
+let x=12+3;
 println!("{}",x);
 }
